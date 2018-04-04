@@ -1,10 +1,8 @@
-# Python Exercises
-## FIBO.PY
-*_includes both 
-Week 1 and 
-Week 2 excercises_
+# Python Exercises Thea Murtagh 
+## FIBO.PY ##
+_includes both Week 1 & Week 2 Exercises_
 
-2. ## Collatz1.py ##
+## Collatz1.py ##
 Collatz problem _week 3_
 
 ## Project5.py ##
