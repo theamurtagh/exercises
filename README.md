@@ -1,7 +1,7 @@
 # Python Exercises Thea Murtagh 
 ## FIBO.PY ##
 _includes both Week 1 & Week 2 Exercises_
-> to find the fib no
+# to find the fib no
 
 ## Collatz1.py ##
 Collatz problem _week 3_
