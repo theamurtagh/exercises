@@ -1,7 +1,8 @@
 # Python Exercises
 ## FIBO.PY
 *_includes both 
-Week 1 and Week 2 excercises_
+Week 1 and 
+Week 2 excercises_
 
 2. ## Collatz1.py ##
 Collatz problem _week 3_
