@@ -3,7 +3,9 @@
 _includes both Week 1 & Week 2 Exercises_
 
 
-Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.
+1. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.
+
+2. Change the string variable to contain your own surname, and rerun it. 
 
 ## Collatz1.py ##
 Collatz problem _week 3_
