@@ -2,12 +2,12 @@
 ## FIBO.PY
 _includes both Week 1 and Week 2 excercises_
 
-## Collatz1.py##
+## Collatz1.py ##
 Collatz problem _week 3_
 
-## Project5.py##
+## Project5.py ##
 Project Euler I found this one difficult
-_Week 4 exercise_
+1. _Week 4 exercise_
 ![https://en.wikipedia.org/wiki/Project_Euler#/media/File:Leonhard_Euler.jpg]
 
 ## openfile.py
