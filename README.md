@@ -13,17 +13,21 @@ Collatz problem _week 3_
 * writing a single Python script that starts with an integer and repeatedly applies the Collatz function
 
 ## Project5.py ##
-Project Euler I found this one difficult
-1. _Week 4 exercise_
+Project Euler _week 4_ 
+
+I found this one difficult
+
 ![https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg]
 
 ## openfile.py
-Iris Dataset exercise 
+Iris Dataset exercise
 _Week 5 exercise_
 
-## factorial.py ##
-get the factorial of a positive integer 
+## factorial.py ## 
 _week 6 Exercise_
+
+
+
 
 
 
