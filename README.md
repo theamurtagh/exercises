@@ -10,6 +10,8 @@ _includes both Week 1 & Week 2 Exercises_
 ## Collatz1.py ##
 Collatz problem _week 3_
 
+* writing a single Python script that starts with an integer and repeatedly applies the Collatz function
+
 ## Project5.py ##
 Project Euler I found this one difficult
 1. _Week 4 exercise_
