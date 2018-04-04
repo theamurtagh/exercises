@@ -3,7 +3,7 @@
 _includes both Week 1 & Week 2 Exercises_
 
 
-to find the fib no
+Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.
 
 ## Collatz1.py ##
 Collatz problem _week 3_
