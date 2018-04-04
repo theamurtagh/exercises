@@ -15,7 +15,7 @@ Collatz problem _week 3_
 ## Project5.py ##
 Project Euler I found this one difficult
 1. _Week 4 exercise_
-![https://en.wikipedia.org/wiki/Project_Euler#/media/File:Leonhard_Euler.jpg]
+![https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg]
 
 ## openfile.py
 Iris Dataset exercise 
