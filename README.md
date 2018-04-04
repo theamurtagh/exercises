@@ -18,6 +18,7 @@ Project Euler _week 4_
 *2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20
 
 I found this one difficult
+!(Euler) (https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg)
 
 
 ## openfile.py
